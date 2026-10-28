@@ -1,2 +1,1 @@
-# CDI-INPATIENT-COPILOT
-CDI INPATIENT COPILOT
+inpatient-cdi-intelligence
